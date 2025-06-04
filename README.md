@@ -38,8 +38,8 @@ This project is a solution to the QR Code Component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kondeh1/QR-code-component)
-- Live Site URL: [Add live site URL here](https://kondeh1.github.io/QR-code-component/)
+- Solution URL: [Repository Link](https://github.com/Kondeh1/QR-code-component)
+- Live Site URL: [Live Site](https://kondeh1.github.io/QR-code-component/)
 
 ## My process
   1. HTML Structure
